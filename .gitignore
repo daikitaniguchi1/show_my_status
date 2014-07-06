@@ -8,3 +8,4 @@ spec/test_app/tmp/
 spec/test_app/.sass-cache
 .idea/*
 .idea/workspace.xml
+Gemfile.lock
