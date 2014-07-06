@@ -7,11 +7,11 @@ require "show_my_status/version"
 Gem::Specification.new do |s|
   s.name        = "show_my_status"
   s.version     = ShowMyStatus::VERSION
-  s.authors     = ["TODO: Your name"]
-  s.email       = ["TODO: Your email"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of ShowMyStatus."
-  s.description = "TODO: Description of ShowMyStatus."
+  s.authors     = ["kidachi_"]
+  s.email       = ["t.daiki50@gmail.com"]
+  s.homepage    = ""
+  s.summary     = "ShowMyStatus."
+  s.description = "ShowMyStatus."
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
